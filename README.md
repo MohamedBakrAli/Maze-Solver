@@ -4,7 +4,7 @@ Exploring MDP solving algorithms with mazes!
 ****
 
 ## Introduction:
-We generate random maze and sole using two basic algorithms for solving MDPs are value iteration
+We generate random maze and sovle using two basic algorithms for solving MDPs are value iteration
 and policy iteration.
 ## Methods:
   **1. Value Iteration**
@@ -32,7 +32,7 @@ and policy iteration.
 
 Fig. 1                     |  Fig. 2
 :-------------------------:|:-------------------------:
-![Fig 1](sample_run/fig1.png) |  ![Fig 2](sample_run/fig2.png)
+![Fig 1](visuals/fig1.png) |  ![Fig 2](visuals/fig2.png)
 
 
 ## Authors
