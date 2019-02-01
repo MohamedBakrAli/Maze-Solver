@@ -29,11 +29,9 @@ and policy iteration.
         
    These steps are repeated until π converges to π<sup>*</sup>
 ## Sample Run
-
-Fig. 1                     |  Fig. 2
-:-------------------------:|:-------------------------:
-![Fig 1](visuals/fig1.png) |  ![Fig 2](visuals/fig2.png)
-
+Policy Iteration           |  Value Iteration          |  Scale
+:-------------------------:|:-------------------------:|:-------------------------:
+![Policy Iteration](visuals/pi_iterations_new.gif) |  ![Value Iteration](visuals/vi_iterations_new.gif) | ![scale](visuals/Scale.png)
 
 ## Authors
 
